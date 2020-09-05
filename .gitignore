@@ -1,0 +1,13 @@
+target/
+build
+tmp
+.settings
+.project
+.classpath
+
+.idea
+*.iml
+
+.metals
+.bloop
+
